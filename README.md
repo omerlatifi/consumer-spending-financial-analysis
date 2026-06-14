@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey?logo=sqlite)
-![Google Sheets](https://img.shields.io/badge/Google-Sheets-green?logo=google-sheets)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoft-excel)
 ![Dataset](https://img.shields.io/badge/Dataset-20%2C000%20rows-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
